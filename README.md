@@ -1,2 +1,5 @@
-# final_project
-![image](https://user-images.githubusercontent.com/112978144/229387765-8dbeb0b0-6d00-48f4-88b4-0c30e3dbea96.png)
+# final_project linear regression
+linearregression
+
+This is the linear regression models. I tried multiple but didn't get very good accuracy I may be doing something wrong but wanted to commit so we can take a look at it during our time together later today.
+
